@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: wp-content/uploads/2019/05/*.jpg$
+Disallow: wp-content/uploads/2019/05/*.png$
+Allow: /
